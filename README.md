@@ -1,4 +1,4 @@
-# Hello! I'm Lada Pankov👋
+# Hello! I'm Lada Penkova👋
 
 I'm bold frontend developer with four years of commercial experience. I specialize in website and interface development using modern technologies and best practices.
 
