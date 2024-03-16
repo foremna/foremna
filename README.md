@@ -19,7 +19,8 @@ I'm bold frontend developer with four years of commercial experience. I speciali
 
 ## Need a frontend professional job? Let's connect 👇
 
-You can connect with me through **[LinkedIn]**(https://www.linkedin.com/in/lada-pankov-31a1602b8/).
+You can connect with me through [**LinkedIn**](https://www.linkedin.com/in/lada-pankov-31a1602b8/).
 
 If you have any questions or proposals, feel free to reach out to me! 😊
+
 Thanks for visiting my GitHub profile! 🚀
