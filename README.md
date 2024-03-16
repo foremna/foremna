@@ -17,9 +17,9 @@ I'm bold frontend developer with four years of commercial experience. I speciali
 - 💼 Commercial experience in developing websites and personal accounts for government agencies, corporations, and IT companies.
 - 🌱 Constantly learning new technologies and approaches to improve projects.
 
-## LinkedIn
+## Need a frontend professional job? Let's connect 👇
 
-You can connect with me through [my LinkedIn profile](https://www.linkedin.com/in/lada-pankov-31a1602b8/).
+You can connect with me through **[LinkedIn]**(https://www.linkedin.com/in/lada-pankov-31a1602b8/).
 
 If you have any questions or proposals, feel free to reach out to me! 😊
 Thanks for visiting my GitHub profile! 🚀
