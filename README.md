@@ -8,6 +8,7 @@ I'm bold frontend developer with four years of commercial experience. I speciali
 - **Backend:** PHP, Vue, MongoDB, MySQL
 - **Design:** Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Avocode, Sketch, Zeplin
 - **Tools and Technologies:** Webpack, Gulp, Grunt, Github, Jira, Asana, Trello
+- **CSS libraries:** Bootstrap, Tailwind, Material UI
 - **Methodologies:** BEM, adaptive design, validity, semantics, cross-browser compatibility, accessibility (a11)
 
 ## My Experience and Achievements:
